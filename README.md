@@ -17,9 +17,9 @@ Revolutionizing gaming with AI dynamic characters, dynamic skyboxes, NFT integra
 | Character         | [0xf879432b14B4635fC1aDEfa0C0555B9db60936C6](https://testnet.snowtrace.io/address/0xf879432b14B4635fC1aDEfa0C0555B9db60936C6)  | Fuji    |
 | CyberChips | [0x930C594144D4b20471FCe94b2ba69336492Fd4e3](https://testnet.snowtrace.io/address/0x930C594144D4b20471FCe94b2ba69336492Fd4e3)  | Fuji    |
 | Game        | [0x1134787CAbb3B078AFaa28c4dfA2cbC236b8C6A9](https://testnet.snowtrace.io/address/0x1134787CAbb3B078AFaa28c4dfA2cbC236b8C6A9)  | Fuji    |
-| Character            | [0xf879432b14B4635fC1aDEfa0C0555B9db60936C6](https://testnet-zkevm.polygonscan.com/address/0xf879432b14B4635fC1aDEfa0C0555B9db60936C6)| Mumbai  |
-| CyberChips          | [0x930C594144D4b20471FCe94b2ba69336492Fd4e3](https://testnet-zkevm.polygonscan.com/address/0x930C594144D4b20471FCe94b2ba69336492Fd4e3)| Mumbai  |
-| Game            | [0x1134787cabb3b078afaa28c4dfa2cbc236b8c6a9](https://testnet-zkevm.polygonscan.com/address/0x1134787cabb3b078afaa28c4dfa2cbc236b8c6a9)| Mumbai  |
+| Character            | [0xf879432b14B4635fC1aDEfa0C0555B9db60936C6](https://testnet-zkevm.polygonscan.com/address/0xf879432b14B4635fC1aDEfa0C0555B9db60936C6)| Polygon zkEVM  |
+| CyberChips          | [0x930C594144D4b20471FCe94b2ba69336492Fd4e3](https://testnet-zkevm.polygonscan.com/address/0x930C594144D4b20471FCe94b2ba69336492Fd4e3)| Polygon zkEVM  |
+| Game            | [0x1134787cabb3b078afaa28c4dfa2cbc236b8c6a9](https://testnet-zkevm.polygonscan.com/address/0x1134787cabb3b078afaa28c4dfa2cbc236b8c6a9)| Polygon zkEVM  |
 
 
 ## How to test
@@ -41,5 +41,5 @@ npm run dev
 
 | AVAX FUJI       | [AVAX Faucets](https://testnet.help/en/avaxfaucet/testnet)                                                 | Faucet            |
 
-| ETH/Matic Polygon       | [Polygon Faucets](https://faucet.polygon.technology/)                                                 | Faucet            |
+| ETH/Polygon zkEVM       | [Polygon Faucets](https://faucet.polygon.technology/)                                                 | Faucet            |
 
