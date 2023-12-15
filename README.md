@@ -28,7 +28,9 @@ Run the Backend using Node
 Frontend
 
 cd frontend
+
 npm install
+
 npm run dev
 
 
@@ -38,5 +40,6 @@ npm run dev
 |-------------------------|-----------------------------------------------------------------------------------------------------------|-------------------|
 
 | AVAX FUJI       | [AVAX Faucets](https://testnet.help/en/avaxfaucet/testnet)                                                 | Faucet            |
+
 | ETH/Matic Polygon       | [Polygon Faucets](https://faucet.polygon.technology/)                                                 | Faucet            |
 
